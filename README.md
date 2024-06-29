@@ -4,7 +4,8 @@
 - 📖 Majoring in Electronic Engineering
 - ✨ I'm interested in DSP & FPGA & Antenna.
 - 🔭 Currently exploring Superdirective Antenna Arrays in MCSP Lab.
-- 🌱 I’m currently learning Audio Processing.
+- 🌱 I’m currently learning Accelerated Computing & Computer Vision.
+- 📫 How to reach me: raydonga@outlook.com
 
 My work:
 
