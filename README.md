@@ -2,9 +2,7 @@
 - 🏫 Sophomore UG [@HUST](https://www.hust.edu.cn/)
 
 - 📖 Majoring in Electronic Engineering
-- ✨ I'm interested in DSP & FPGA & Antenna.
-- 🔭 Currently exploring Superdirective Antenna Arrays in MCSP Lab.
-- 🌱 I’m currently learning Accelerated Computing & Computer Vision.
+- ✨ I'm interested in DSP & FPGA
 - 📫 How to reach me: raydonga@outlook.com
 
 My work:
